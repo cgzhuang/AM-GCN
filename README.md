@@ -13,4 +13,5 @@ Point cloud classification and segmentation are crucial tasks for point cloud pr
 
 ## Publication
 This paper has been accepted by IEEE Transactions on Cognitive and Developmental Systems (TCDS).
+If you have some questions or need more support, please feel to contact us at nwh1093412390@sjtu.edu.cn.
 
